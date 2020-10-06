@@ -1,0 +1,13 @@
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.exe
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.deps.json
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.runtimeconfig.json
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.runtimeconfig.dev.json
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.dll
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.1\BasicCoding.pdb
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.csprojAssemblyReference.cache
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.AssemblyInfoInputs.cache
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.AssemblyInfo.cs
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.csproj.CoreCompileInputs.cache
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.dll
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.pdb
+C:\Users\aidil\Desktop\epam_external16\net-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.1\BasicCoding.genruntimeconfig.cache
